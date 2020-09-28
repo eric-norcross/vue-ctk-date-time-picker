@@ -44,7 +44,7 @@
     "nuxt": "^2.12.2",
     "sass-loader": "^7.1.0",
     "vue-cli-plugin-webpack-bundle-analyzer": "^1.2.0",
-    "vue-server-renderer": "^2.6.11",
+    "vue-server-renderer": "^2.6.12",
     "vue-template-compiler": "^2.6.9"
   },
   "postcss": {

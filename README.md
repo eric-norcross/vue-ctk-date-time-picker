@@ -295,19 +295,13 @@ Ensure you have Node and npm in your machine. Minimal config is:
 Install the development dependencies by running:
 
 ```bash
-npm install
-```
-
-or
-
-```bash
-npm ci # Recommanded if you have node > 10.x
+yarn install
 ```
 
 Once your dependencies are installed, start the development server with:
 
 ```bash
-npm run serve
+yarn serve
 ```
 
 This will start the development server available at `http://localhost:8080`.
@@ -328,13 +322,13 @@ This will start the development server inside a container and accessible through
 ## Compiles and hot-reloads for development
 
 ```bash
-npm run serve
+yarn serve
 ```
 
 ## Linter
 
 ```bash
-npm run lint
+yarn lint
 ```
 
 ## Tests
